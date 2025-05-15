@@ -55,7 +55,7 @@ body{
     text-align: center;
 }
 #sec2{
-    color: #926239;;
+    color: #926239;
     background-color: #f4f4f4;
     padding: 20px;
     text-align: center;
@@ -71,7 +71,7 @@ body{
     width: 33.3%;
     font-size: 17px;
 }
-#sec3 .box1, #sec3 .box3{
+#sec3 .box1,.box3{
     background:#926239;
     color:#fff;
 
